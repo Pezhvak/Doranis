@@ -1,4 +1,4 @@
 Doranis
 =======
 
-Doranis Core
+Doranis is a PHP framework dedicated for professionals.
