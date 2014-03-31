@@ -1,0 +1,12 @@
+{
+    "name": "doranis/framework",
+    "description": "Doranis is world of freedom",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pezhvak IMV",
+            "email": "pezhvakimv@gmail.com"
+        }
+    ]
+}
